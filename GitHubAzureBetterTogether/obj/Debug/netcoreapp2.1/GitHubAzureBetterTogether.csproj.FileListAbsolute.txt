@@ -1,0 +1,12 @@
+D:\deep\GitHubAzureBetterTogether\bin\Debug\netcoreapp2.1\Settings.job
+D:\deep\GitHubAzureBetterTogether\bin\Debug\netcoreapp2.1\GitHubAzureBetterTogether.deps.json
+D:\deep\GitHubAzureBetterTogether\bin\Debug\netcoreapp2.1\GitHubAzureBetterTogether.runtimeconfig.json
+D:\deep\GitHubAzureBetterTogether\bin\Debug\netcoreapp2.1\GitHubAzureBetterTogether.runtimeconfig.dev.json
+D:\deep\GitHubAzureBetterTogether\bin\Debug\netcoreapp2.1\GitHubAzureBetterTogether.dll
+D:\deep\GitHubAzureBetterTogether\bin\Debug\netcoreapp2.1\GitHubAzureBetterTogether.pdb
+D:\deep\GitHubAzureBetterTogether\obj\Debug\netcoreapp2.1\GitHubAzureBetterTogether.csprojAssemblyReference.cache
+D:\deep\GitHubAzureBetterTogether\obj\Debug\netcoreapp2.1\GitHubAzureBetterTogether.csproj.CoreCompileInputs.cache
+D:\deep\GitHubAzureBetterTogether\obj\Debug\netcoreapp2.1\GitHubAzureBetterTogether.AssemblyInfoInputs.cache
+D:\deep\GitHubAzureBetterTogether\obj\Debug\netcoreapp2.1\GitHubAzureBetterTogether.AssemblyInfo.cs
+D:\deep\GitHubAzureBetterTogether\obj\Debug\netcoreapp2.1\GitHubAzureBetterTogether.dll
+D:\deep\GitHubAzureBetterTogether\obj\Debug\netcoreapp2.1\GitHubAzureBetterTogether.pdb
